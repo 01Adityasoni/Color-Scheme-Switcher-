@@ -1,2 +1,2 @@
 # Color-Scheme-Switcher-
-JavaScript Porject
+JavaScript Project
