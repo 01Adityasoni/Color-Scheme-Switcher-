@@ -1,0 +1,27 @@
+#grey{
+    background-color: grey;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#red{
+    background-color: rgb(230, 20, 20);
+}
+#purple{
+    background-color: purple;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button {
+    padding: 15px;
+    margin: 10px;
+    display: inline-block;
+}
