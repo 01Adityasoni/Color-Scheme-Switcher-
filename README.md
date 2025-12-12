@@ -43,7 +43,7 @@ A simple and interactive web application that allows users to switch between dif
 Contributions are welcome! Please open issues or submit pull requests for improvements and new features.
 
 ## License
-This project is licensed under the MIT License.
+This project is open source and free to use.
 
 ## Author
 - [Aditya Soni](https://github.com/01Adityasoni)
